@@ -17,7 +17,7 @@ Pymongo :
 
 - Scripts : script_importation.py ; script_req_netflix.py ; script_req_amazon.py
 
-Pyspark : Les jeux de données ont du être modifié pour pouvoir utiliser PySpark. 
+Pyspark : The datasets had to be modified in order to use PySpark. 
 
 - Datasets : amazon_prime.csv & netflix.csv
 
