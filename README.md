@@ -13,14 +13,12 @@ We used PyMongo and PySpark to do some requests and then compile the results int
 
 Pymongo : 
 
-- Jeux de données : netflix.json & amazon.json
+- Datasets : netflix.json & amazon.json
 
-- Scripts : script_importation; script_req_netflix; script_req_amazon
+- Scripts : script_importation.py ; script_req_netflix.py ; script_req_amazon.py
 
-Pyspark :
+Pyspark : Les jeux de données ont du être modifié pour pouvoir utiliser PySpark. 
 
-Les jeux de données ont du être modifié pour pouvoir utiliser PySpark. 
+- Datasets : amazon_prime.csv & netflix.csv
 
-- Jeux de données : amazon_prime.csv & netflix.csv
-
-- Scripts : 
+- Scripts : script_pyspark.py & script_pyspark_jup.ipynb (same content)
